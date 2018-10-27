@@ -1,0 +1,12 @@
+body{
+  background-color: beige
+}
+
+#mywords{
+  font: Arial;
+  text-transform: capitalize;
+}
+
+#mypic{
+  border: 1px solid black;
+}
