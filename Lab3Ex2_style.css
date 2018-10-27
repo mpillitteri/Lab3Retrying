@@ -2,13 +2,17 @@ body{
   background-color: red;
 }
 
-#ul{
+
+ul{
   color:green;
   font-style: italic;
 }
 
-#line{
+/*#nav_bar {margin:0px;padding:0px;list-style-type:none;text-align:center;}
+*/
+
+li{
   display: inline;
   font-size: 30px;
-
+  width: 100px;
 }
